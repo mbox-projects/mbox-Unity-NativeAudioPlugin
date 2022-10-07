@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 # mbox-Unity-NativeAudioPlugin
+
+아래 README내용과 같은 Unity에서 제공하는 Native Audio Plugin 예제를 이용하여 모바일 플랫폼용 라이브러리 및 플러그인을 테스트하기 위한 pork 프로젝트
+
 =======
 # README #
 
@@ -13,4 +15,3 @@ While all other scenes in the project are self-contained and self-running, the �
 
 ### Further information ###
 For diagrams describing some of the demos and techniques used see [the slides from Unite Europe 2015](http://files.unity3d.com/janm/UniteEurope2015.pdf)
->>>>>>> Unity 프로젝트와 Code 추가
